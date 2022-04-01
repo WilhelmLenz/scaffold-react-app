@@ -1,27 +1,18 @@
 {
-  "name": "ZAF React Skeleton App",
+  "name": "Beispiel Zendesk-React Scaffold_APP",
   "author": {
-    "name": "Zendesk",
-    "email": "support@zendesk.com",
-    "url": "https://www.zendesk.com"
+    "name": "Wilhelm Lenz",
+    "email": "wilehlm.lenz@neteleven.de",
+    "url": ""
   },
 
   "defaultLocale": "en",
-  "private": false,
+  "private": true,
   "singleInstall": true,
 
   "location": {
-    "sell": {
-      "lead_card": {
-        "url": "assets/index.html"
-      },
-      "person_card": {
-        "url": "assets/index.html"
-      },
-      "company_card": {
-        "url": "assets/index.html"
-      },
-      "deal_card": {
+    "support": {
+      "ticket_sidebar": {
         "url": "assets/index.html"
       }
     }
